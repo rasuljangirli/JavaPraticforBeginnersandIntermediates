@@ -6,7 +6,7 @@ import UserService from "../services/userService.js"
 console.log("User component yüklendi")
 
 let logger1 = new MongoLogger()
-let userService = new UserService(logger1)
+// let userService = new UserService(logger1)
 
 let user1 = new User(1,"Engin","Demiroğ","Ankara")
 let user2 = new User(2,"Baran","Gökçekli","Muğla")
