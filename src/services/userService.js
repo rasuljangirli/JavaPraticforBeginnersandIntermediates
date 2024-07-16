@@ -8,7 +8,6 @@ export default class UserService {
         this.errors = []
         this.loggerService = loggerService
     }
-
     load() {
         for (const user of users) {
             switch (user.type) {
