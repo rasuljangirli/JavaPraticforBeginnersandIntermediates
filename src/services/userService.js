@@ -27,7 +27,6 @@ export default class UserService {
             }
         }
     }
-
     //formik-yup
     checkCustomerValidityForErrors(user) {
         let requiredFields = "id firstName lastName age city".split(" ")
