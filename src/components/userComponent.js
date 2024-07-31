@@ -26,7 +26,6 @@
 // console.log("--------------------------")
 // userService.load()
 
-
 // let customerToAdd = new Customer(1,"Seda","Yılmaz","Ankara","fdgdfg");
 // customerToAdd.type = "customer"
 
