@@ -22,7 +22,7 @@ Bu repomda fərdi lahiyəmin yazılması üçün öyrənmə prossesində istifad
 
     Proyekti klonlayın:
    ```bash
-   git clone https://github.com/istifadəçi/proyekt-adı.git
+   git clone https://github.com/rasuljangirli/JavaPraticforBeginnersandIntermediates.git
 
 
 
