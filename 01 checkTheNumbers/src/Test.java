@@ -16,7 +16,7 @@ public class Test {
 		
 		int[] numbers = new int[numberLengt];
 		for (int i = 0; i < numberLengt; i++) {
-			System.out.print(" Plase enter the number " + i + "--------");
+			System.out.print(" Please enter the number " + i + "--------");
 			int number = scanner.nextInt();
 			numbers[i] = number;
 		}

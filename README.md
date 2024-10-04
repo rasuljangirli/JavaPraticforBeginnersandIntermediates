@@ -9,7 +9,22 @@ Bu repomda fərdi lahiyəmin yazılması üçün öyrənmə prossesində istifad
 
 * ### Check The Numbers - filename: checkTheNumbers
 
-  Bu proyektdə 
+    Bu proyekt Object Oriented Programming (OOP) prinsiplərinə əsaslanaraq hazırlanmışdır. Aşağıdakı əsas məqamlar proyektin tərkibində istifadə edilmişdir:
+
+    - **Varebls (dəyişənlər) təyini:** OOP tərkibində dəyişənlərin idarə edilməsi.
+    - **Static method istifadəsi:** Kodun səmərəliliyini artırmaq və ümumi məlumatlara çıxışı təmin etmək üçün static methodlardan istifadə olunmuşdur.
+    - **For loop istifadəsi:** Java daxilində for döngülərindən istifadə edərək təkrar əməliyyatlar həyata keçirilmişdir.
+    - **Static void method:** Müxtəlif funksionallıqlar static void methodlar vasitəsilə həyata keçirilir.
+
+    Bu proyekt başlanğıc səviyyəsində olan dostlar üçün əlverişli və öyrədici bir resursdur.
+
+    ## Quraşdırma
+
+    Proyekti klonlayın:
+   ```bash
+   git clone https://github.com/istifadəçi/proyekt-adı.git
+
+
 
 
 
