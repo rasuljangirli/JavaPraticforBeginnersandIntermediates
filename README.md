@@ -10,7 +10,7 @@ Bu repomda fərdi lahiyəmin yazılması üçün öyrənmə prossesində istifad
 * ### Check The Numbers - filename: checkTheNumbers
 
     Bu proyekt Object Oriented Programming (OOP) prinsiplərinə əsaslanaraq hazırlanmışdır. Bu proqram istifadəçinin daxil etdiyi rəqəmlərin cüt və ya tək olduğunu yoxlayır və nəticələri ekranda göstərir. Aşağıdakı əsas məqamlar proyektin tərkibində istifadə edilmişdir:
-
+  
     - **Varebls (dəyişənlər) təyini:** OOP tərkibində dəyişənlərin idarə edilməsi.
     - **Static method istifadəsi:** Kodun səmərəliliyini artırmaq və ümumi məlumatlara çıxışı təmin etmək üçün static methodlardan istifadə olunmuşdur.
     - **For loop istifadəsi:** Java daxilində for döngülərindən istifadə edərək təkrar əməliyyatlar həyata keçirilmişdir.
