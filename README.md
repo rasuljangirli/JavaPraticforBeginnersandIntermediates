@@ -15,7 +15,6 @@ Bu repomda fərdi lahiyəmin yazılması üçün öyrənmə prossesində istifad
 
 
 
-
-
+---
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
