@@ -22,7 +22,6 @@ Bu repomda fərdi lahiyəmin yazılması üçün öyrənmə prossesində istifad
 
 * ### Login and Password - filename: loginAndPassword
 
-    
     Bu proyektdə `Scanner` sinifindən daha çox istifadə edilib, məlumatları almaq üçün. Ümumilikdə bir giriş sisteminin təmin olunmasını göstərən simulatör kimi görə bilərik proyekti. İçərisində `if` bloku, `equals()` methodu, Class daxili static method və s. istifadə edilmişdir.
 
 ---
