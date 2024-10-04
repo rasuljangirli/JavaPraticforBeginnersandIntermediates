@@ -10,3 +10,12 @@ Bu repomda fərdi lahiyəmin yazılması üçün öyrənmə prossesində istifad
 * ### Check The Numbers - filename: checkTheNumbers
 
   Bu proyektdə 
+
+
+
+
+
+
+
+
+Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
