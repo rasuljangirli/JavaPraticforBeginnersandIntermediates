@@ -19,9 +19,10 @@ Bu repomda fərdi lahiyəmin yazılması üçün öyrənmə prossesində istifad
     Bu proyekt başlanğıc səviyyəsində olan dostlar üçün əlverişli və öyrədici bir resursdur.
 
     Proyekti klonlamağ üçün copy edin:
+
    ```bash
    git clone https://github.com/rasuljangirli/JavaPraticforBeginnersandIntermediates.git
-
+   ```
 
 
 
