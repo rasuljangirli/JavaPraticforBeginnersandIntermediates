@@ -2,7 +2,7 @@
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
 
-Bu repomda fərdi lahiyəmin yazılması üçün öyrənmə prossesində istifadə edilən kiçik və orta dərəcəli proyektlər mövcuddur. Ümüd edirəm ki faydalı olmuşdur.
+Bu repomda fərdi lahiyəmin yazılması üçün öyrənmə prossesində istifadə edilən kiçik və orta dərəcəli proyektlər mövcuddur. Burada yazılan kodları böyük oyunlar öncəsi idman hərəkətləri kimi qəbul edə bilərsiz :) Ümüd edirəm ki faydalı olmuşdur Ugurlar olsun.
 
 _QEYD: Başlanğıcda kiçik həcimli lahiyələr, daha sonra isə zamanla daha dərin və qarışıq proyektlər paylaşılacaq._
 
@@ -23,9 +23,9 @@ _QEYD: Başlanğıcda kiçik həcimli lahiyələr, daha sonra isə zamanla daha 
 
   Bu proyektdə `Scanner` sinifindən daha çox istifadə edilib, məlumatları almaq üçün. Ümumilikdə bir giriş sisteminin təmin olunmasını göstərən simulatör kimi görə bilərik proyekti. İçərisində `if` bloku, `equals()` methodu, Class daxili static method və s. istifadə edilmişdir.
 
-- ### Employee - filename: employee
+- ### Employee - filename: `employee`
 
-  Bu proyektdə
+  Burada biz iki class vasitəsilə bir class-da təyin edilən Constructor və daxili methodlar vasitəsilə gələn məlumatı emal edirik. Örnək olaraq işçilər üzərindən irəliləmişik. Burada `firstName`, `lastName`, `salary`, `practica` kimi dəyişənlər əsasında işçi haqqında müəyyən məlumatlar emal edilir və bizə təqdim edilir. Kod sətrlərini incələyərək daha çox məlumat əldə etmək mümkündür.
 
 ---
 
