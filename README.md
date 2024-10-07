@@ -27,6 +27,24 @@ _QEYD: Başlanğıcda kiçik həcimli lahiyələr, daha sonra isə zamanla daha 
 
   Burada biz iki class vasitəsilə bir class-da təyin edilən Constructor və daxili methodlar vasitəsilə gələn məlumatı emal edirik. Örnək olaraq işçilər üzərindən irəliləmişik. Burada `firstName`, `lastName`, `salary`, `practica` kimi dəyişənlər əsasında işçi haqqında müəyyən məlumatlar emal edilir və bizə təqdim edilir. Kod sətrlərini incələyərək daha çox məlumat əldə etmək mümkündür.
 
+- ### Encapsulation - filename: `encapsulation`
+
+  Bu Java proyektində istifadəçi məlumatlarının yoxlanması və doğru şəkildə idarə olunması üçün **encapsulation** (enkapsulyasiya) prinsipi istifadə edilmişdir.
+
+  Sinif əsasən istifadəçinin adını, soyadını və şəxsi məlumatlarını qorumaq və yoxlamaq üçün hazırlanmışdır. İstifadəçinin məlumatlarına yalnız müəyyən şərtlər daxilində giriş imkanı verilir.
+
+ ## Xüsusiyyətlər:
+
+  - **Encapsulation**: Məlumatlar (`firsName`, `lastName`, `peopleInfo`) private dəyişənlər kimi təyin edilib və getter/setter metodları vasitəsilə idarə olunur.
+  - **Yoxlama Məntiqi**: `peopleInfo` dəyişəni yalnız 10-15 simvoldan ibarət və rəqəm tərkibli olduğu halda qəbul edilir. Əks halda, istifadəçiyə xəta mesajı qaytarılır.
+  - **Random Nömrə Yaratma**: İstifadəçi məlumatları düzgün daxil edildikdən sonra ona təsadüfi bir nömrə təyin olunur və məlumatları ekranda göstərilir.
+  - **Metodlar**:
+  - `name()`: Məlumatları göstərir və təsadüfi nömrə yaradır.
+  - `setPeopleInfo()`: Məlumatın uzunluğunu və tərkibini yoxlayır, yalnız şərtlərə uyğun məlumatı qəbul edir.
+
+
+
+
 ---
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
