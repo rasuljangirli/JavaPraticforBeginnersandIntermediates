@@ -33,7 +33,7 @@ _QEYD: Başlanğıcda kiçik həcimli lahiyələr, daha sonra isə zamanla daha 
 
   Sinif əsasən istifadəçinin adını, soyadını və şəxsi məlumatlarını qorumaq və yoxlamaq üçün hazırlanmışdır. İstifadəçinin məlumatlarına yalnız müəyyən şərtlər daxilində giriş imkanı verilir.
 
- ## Xüsusiyyətlər:
+ ## Xüsusiyyətlər: 
 
   - **Encapsulation**: Məlumatlar (`firsName`, `lastName`, `peopleInfo`) private dəyişənlər kimi təyin edilib və getter/setter metodları vasitəsilə idarə olunur.
   - **Yoxlama Məntiqi**: `peopleInfo` dəyişəni yalnız 10-15 simvoldan ibarət və rəqəm tərkibli olduğu halda qəbul edilir. Əks halda, istifadəçiyə xəta mesajı qaytarılır.
