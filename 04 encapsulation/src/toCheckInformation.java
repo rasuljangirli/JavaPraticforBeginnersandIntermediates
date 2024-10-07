@@ -5,7 +5,7 @@ public class toCheckInformation {
 	private String firsName;
 	private String lastName;
 	private String peopleInfo;
-
+	
 	public toCheckInformation() {
 
 	}
