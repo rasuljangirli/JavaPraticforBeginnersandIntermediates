@@ -38,7 +38,7 @@ _QEYD: Başlanğıcda kiçik həcimli lahiyələr, daha sonra isə zamanla daha 
   - **Encapsulation**: Məlumatlar (`firsName`, `lastName`, `peopleInfo`) private dəyişənlər kimi təyin edilib və getter/setter metodları vasitəsilə idarə olunur.
   - **Yoxlama Məntiqi**: `peopleInfo` dəyişəni yalnız 10-15 simvoldan ibarət və rəqəm tərkibli olduğu halda qəbul edilir. Əks halda, istifadəçiyə xəta mesajı qaytarılır.
   - **Random Nömrə Yaratma**: İstifadəçi məlumatları düzgün daxil edildikdən sonra ona təsadüfi bir nömrə təyin olunur və məlumatları ekranda göstərilir.
-  - **Metodlar**:
+  **Metodlar**:
   - `name()`: Məlumatları göstərir və təsadüfi nömrə yaradır.
   - `setPeopleInfo()`: Məlumatın uzunluğunu və tərkibini yoxlayır, yalnız şərtlərə uyğun məlumatı qəbul edir.
 
