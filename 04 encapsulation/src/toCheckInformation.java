@@ -5,10 +5,8 @@ public class toCheckInformation {
 	private String firsName;
 	private String lastName;
 	private String peopleInfo;
-	
-	public toCheckInformation() {
 
-	}
+	public toCheckInformation() {}
 
 	public toCheckInformation(String firsName, String lastName, String peopleInfo) {
 		super();
@@ -74,7 +72,7 @@ public class toCheckInformation {
 			this.peopleInfo = peopleInfo;
 		}
 	}
-
+	
 	public void write(String info) {
 		System.out.println(info);
 	}
