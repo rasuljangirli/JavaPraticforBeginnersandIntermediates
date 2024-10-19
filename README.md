@@ -19,7 +19,7 @@ _QEYD: Başlanğıcda kiçik həcimli lahiyələr, daha sonra isə zamanla daha 
 
   Proyekt başlanğıc səviyyəsində olan dostlar üçün əlverişli və öyrədici bir resursdur.
 
-- ### Login and Password - filename: `loginAndPassword`
+- ### Login and Password - filename: `loginAndPassword` 
 
   Bu proyektdə `Scanner` sinifindən daha çox istifadə edilib, məlumatları almaq üçün. Ümumilikdə bir giriş sisteminin təmin olunmasını göstərən simulatör kimi görə bilərik proyekti. İçərisində `if` bloku, `equals()` methodu, Class daxili static method və s. istifadə edilmişdir.
 
