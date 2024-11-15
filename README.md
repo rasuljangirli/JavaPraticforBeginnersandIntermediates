@@ -1,6 +1,9 @@
 ## JAVA Başlanğıc və orta dərəcəli proyektlər
 
+Youtube kanalımda dərs videolarından yararlanmağ üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
+
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
+
 
 Bu repomda fərdi lahiyəmin yazılması üçün öyrənmə prossesində istifadə edilən kiçik və orta dərəcəli proyektlər mövcuddur. Burada yazılan kodları böyük oyunlar öncəsi idman hərəkətləri kimi qəbul edə bilərsiz :) Ümüd edirəm ki faydalı olmuşdur Ugurlar olsun.
 
@@ -45,5 +48,7 @@ _QEYD: Başlanğıcda kiçik həcimli lahiyələr, daha sonra isə zamanla daha 
 
 
 ---
+
+Youtube kanalımda dərs videolarından yararlanmağ üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
