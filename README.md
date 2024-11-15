@@ -1,6 +1,6 @@
 ## JAVA Başlanğıc və orta dərəcəli proyektlər
 
-Youtube kanalımda dərs videolarından yararlanmağ üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
+Youtube kanalımda dərs videolarından yararlanmaq üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
 
@@ -49,6 +49,6 @@ _QEYD: Başlanğıcda kiçik həcimli lahiyələr, daha sonra isə zamanla daha 
 
 ---
 
-Youtube kanalımda dərs videolarından yararlanmağ üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
+Youtube kanalımda dərs videolarından yararlanmaq üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
